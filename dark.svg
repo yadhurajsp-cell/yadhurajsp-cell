@@ -144,7 +144,7 @@
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" values="0,12;0,0" dur="0.8s" begin="0.3s" fill="freeze"/>
-      <text x="520" y="136" font-family="Inter,Segoe UI,sans-serif" font-size="27" font-weight="700" fill="#F8FAFC">Hi &#128075; I&#8217;m Your Name</text>
+      <text x="520" y="136" font-family="Inter,Segoe UI,sans-serif" font-size="27" font-weight="700" fill="#F8FAFC">Hi &#128075; I&#8217;m Yadhuraj</text>
     </g>
 
     <text x="520" y="168" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#94A3B8">$ whoami --role</text>
